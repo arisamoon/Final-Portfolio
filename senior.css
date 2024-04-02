@@ -56,3 +56,12 @@ img{
   text-align: center;
   color:#3b39a7;
 }
+
+.projects{
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+}
